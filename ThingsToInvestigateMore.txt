@@ -1,0 +1,2 @@
+1. Alignment -> what it is practically used for, combination with new keyword (C++17) and difference between alignof and sizeof
+
