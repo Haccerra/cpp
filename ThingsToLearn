@@ -1,0 +1,4 @@
+Learn about Alignment usage:
+  -> What is it actually used for
+  -> How to use it with NEW keyword (C++17)
+  -> Difference between sizeof and alignof
